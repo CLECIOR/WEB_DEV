@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+
+<p>ENDEREÇO ABSOLUTO</p>
+
+<script src="/caminho/para/script.js">
+</script>
+
+<p>ENDEREÇO RELATIVO</P>
+
+<script src="script.js">
+</script>
+
+<p>ENDEREÇO TOTAL</P>
+
+    <script src="https://github.com/CLECIOR">
+    </script>
+
+</body>
+</html>

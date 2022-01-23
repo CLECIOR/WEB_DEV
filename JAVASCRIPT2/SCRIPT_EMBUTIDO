@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+
+<p>Antes do Scrypt...</p>
+
+<script>
+	alert( 'Olá Mundo!' );
+  </script>
+
+<p>...Depois do script.</p>
+
+</body>
+</html>
